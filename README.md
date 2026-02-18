@@ -84,6 +84,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [FinFeedAPI - Prediction Markets](https://finfeed.io/api/prediction-markets) - Unified API for Kalshi, Polymarket, Myriad, and Manifold markets
 - [RapidAPI - Kalshi](https://rapidapi.com/hub?term=kalshi) - Kalshi API available through RapidAPI marketplace
 - [Kalshi Scraper (Apify)](https://apify.com/kalshi-scraper) - Automated data collection tool for Kalshi markets
+- [SettleRisk](https://settlerisk.com) - Resolution risk scoring, dispute pricing, and settlement delay modeling API for prediction markets including Kalshi
 
 ## Infrastructure & Integrations
 
