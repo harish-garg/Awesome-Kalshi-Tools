@@ -69,6 +69,10 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
   - Market performance analysis
   - No server-side storage (privacy-focused)
 
+### Agent & Automation
+
+- [SimpleFunctions CLI](https://github.com/spfunctions/simplefunctions-cli) - Autonomous Kalshi trading agent with 25+ tools. Causal thesis models, orderbook depth analysis, edge detection, 24/7 monitoring with news/price tracking, what-if scenarios. Bloomberg-style terminal dashboard. MCP server for AI agent integration. `npm install -g @spfunctions/cli`
+
 ## Data APIs & Aggregators
 
 ### Official API
