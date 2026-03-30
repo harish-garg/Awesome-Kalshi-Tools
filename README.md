@@ -111,6 +111,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 
 ### Research Tools
 
+- [pm.wiki](https://pm.wiki/) - Independent prediction market directory covering 350+ tools including Kalshi with side-by-side comparisons, reviews, and a dedicated Kalshi API guide
 - [Good Judgement Open](https://www.gjopen.com/) - Forecasting practice platform with methodology applicable to Kalshi
 - [The Making of a Top Forecaster](https://www.infer-pub.com/blog/top-forecaster-techniques) - Forecasting techniques guide
 
