@@ -46,6 +46,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 
 - [kalshi-python](https://pypi.org/project/kalshi-python/) - Official Kalshi Python SDK with complete API integration, auto-generated from OpenAPI specification
 - [Kalshi API Wrapper (unofficial)](https://github.com/users/kalshi/community) - Community-built Python wrappers
+- [PMXT (unofficial)](https://github.com/users/kalshi/community) - The unified api for prediction markets
 
 ### Go
 
@@ -54,6 +55,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 ### JavaScript/TypeScript
 
 > **Note:** No official JavaScript/TypeScript SDK exists yet - this is a major opportunity for developers!
+- [PMXT (unofficial)](https://github.com/users/kalshi/community) - The unified api for prediction markets
 
 ## Trading Tools
 
