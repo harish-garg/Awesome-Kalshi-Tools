@@ -33,6 +33,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Kalshi Analytics](https://kalshianalytics.com/) - Prediction market intelligence with market trends and trading opportunities
 - [Kalshi Dash](https://github.com/kalshi/kalshi-dash) - Open-source performance tracker for Kalshi traders with PNL visualization and trading statistics
 - [Dune Analytics - Kalshi Dashboards](https://dune.com/browse/dashboards?q=kalshi) - Community-created dashboards for market analysis
+- [Qwidgets](https://predictions.qwidgets.com) - Cross-exchange prediction market workspace builder with full Kalshi event support. Compose Kalshi markets alongside Polymarket and other exchanges into shareable analytical workspaces with charts, order books, P&L projections, and options-style analytics.
 
 ### Multi-Platform Analytics
 
