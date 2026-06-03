@@ -12,6 +12,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Trading Tools](#trading-tools)
 - [Data APIs & Aggregators](#data-apis--aggregators)
 - [Infrastructure & Integrations](#infrastructure--integrations)
+- [Monitoring & Compliance](#monitoring--compliance)
 - [Educational Resources](#educational-resources)
 - [Community](#community)
 - [Opportunities](#opportunities)
@@ -39,6 +40,10 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Polymarket Analytics](https://polymarket-analytics.com/) - Cross-platform analytics including Kalshi market tracking
 - [MetaForecast](https://metaforecast.org/) - Prediction market aggregator including Kalshi markets
 - [FinFeedAPI](https://finfeed.io/api/prediction-markets) - Unified API with Kalshi data alongside other platforms
+
+## Monitoring & Compliance
+
+- [pmwatch](https://github.com/lweiss01/pmwatch) - Open-source anomaly detector for politically-sensitive Kalshi markets. Monitors 33 high-MNPI-risk series (cabinet departures, SCOTUS, AG nominations, Fed decisions, geopolitical actions) and flags unusual volume spikes and price divergence that may indicate insider trading.
 
 ## API Libraries & SDKs
 
