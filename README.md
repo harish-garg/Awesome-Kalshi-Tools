@@ -69,6 +69,11 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
   - Market performance analysis
   - No server-side storage (privacy-focused)
 
+- [DegenHedge Results Log](https://degenhedge.com/results/) - Public, loss-inclusive log of graded Kalshi signals (MLB, NBA, BTC 15-min) with:
+  - Free JSON stats endpoint and full CSV export of every graded signal
+  - Model probability vs. market price recorded at fire time
+  - Telegram proof channel — signals posted locked in-game, revealed at settlement
+
 ## Data APIs & Aggregators
 
 ### Official API
