@@ -95,6 +95,10 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 
 > **Note:** Zapier, Make.com, and Airtable integrations do not exist yet - major opportunity!
 
+### Alerts & Monitoring
+
+- [Kalshi Scanner](https://kalshiscanner.app/) - Real-time alert engine covering the whole exchange, with rules for price crossings, fast price moves, volume spikes, and spread widening, delivered to email or a Discord webhook. Publishes a [public uptime record](https://kalshiscanner.app/status) for both its own pipeline and Kalshi's data feed. Free tier; alerts only, no trade execution.
+
 ## Educational Resources
 
 ### Official Guides
