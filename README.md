@@ -61,6 +61,10 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 
 - [Kalshi Tools & Analysis](https://github.com/Kalshi/tools-and-analysis) - Official repository with market consensus analysis tools and S&P calculator
 
+### Command-Line Clients
+
+- [kalshi-cli](https://github.com/bobashopcashier/kalshi-cli) - Go command-line client for the Kalshi Trade API v2 with versioned, schema-validated JSON, bounded reads, and governed writes for agents and scripts.
+
 ### Performance Tracking
 
 - [Kalshi Dash](https://github.com/kalshi/kalshi-dash) - Open-source client-side performance tracker with:
