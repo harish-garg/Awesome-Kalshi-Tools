@@ -68,6 +68,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
   - Trading statistics
   - Market performance analysis
   - No server-side storage (privacy-focused)
+- [Whalefax](https://whalefax.com/) - P&L and tax reports built from your Kalshi transaction CSV. FIFO lot matching, fees capitalised into basis, per-position detail with acquired and disposed dates. Client side, no upload, no account
 
 ## Data APIs & Aggregators
 
