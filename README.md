@@ -85,6 +85,10 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [RapidAPI - Kalshi](https://rapidapi.com/hub?term=kalshi) - Kalshi API available through RapidAPI marketplace
 - [Kalshi Scraper (Apify)](https://apify.com/kalshi-scraper) - Automated data collection tool for Kalshi markets
 
+### Sports & Event Data
+
+- [Live Tennis API](https://livetennisapi.com) - Live tennis match-state feed — score, who is serving, a three-valued break-point flag, and retirement/walkover/completed status — as an underlying data source for Kalshi tennis event markets. Free tier: live scores, players (ranking + Elo), and fixtures, 30 req/min, no card.
+
 ## Infrastructure & Integrations
 
 ### AI Agent Integrations (MCP)
