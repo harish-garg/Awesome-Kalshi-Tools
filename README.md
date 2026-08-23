@@ -39,6 +39,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Polymarket Analytics](https://polymarket-analytics.com/) - Cross-platform analytics including Kalshi market tracking
 - [MetaForecast](https://metaforecast.org/) - Prediction market aggregator including Kalshi markets
 - [FinFeedAPI](https://finfeed.io/api/prediction-markets) - Unified API with Kalshi data alongside other platforms
+- [DG3](https://dg3.trade/terminal) - Prediction market research and analytics terminal for Kalshi and Polymarket, featuring +EV market ranking against no-vig fair odds, order book depth, sharp flow tracking, live team stats, and one-click execution in a single panel.
 
 ## API Libraries & SDKs
 
