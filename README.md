@@ -90,6 +90,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Kalshi](https://sim.ai/mcp/kalshi) - MCP integration for AI agents with full trading and data access for AI workflows
+- [OpenThomas](https://github.com/PredictionMarketTrader/openthomas) - Autonomous AI agent for trading Kalshi (and Polymarket) weather markets; exposes an MCP server and ships a CLI (`openthomas run|hindcast|report|replay|vital|publish`) with a 7-model NWS-station forecast consensus and Brier-skill-gated Kelly sizing (MIT, Python).
 
 ### No-Code Integrations
 
