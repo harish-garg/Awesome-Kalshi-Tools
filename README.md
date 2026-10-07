@@ -61,6 +61,10 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 
 - [Kalshi Tools & Analysis](https://github.com/Kalshi/tools-and-analysis) - Official repository with market consensus analysis tools and S&P calculator
 
+### Hosted Automation
+
+- [Bot for Kalshi](https://www.botforkalshi.com/) - Hosted Kalshi strategy builder with plain-English rule drafting, inspectable workflows, Paper mode, and optional live execution through the user's Kalshi account. Paid subscription; a verified Kalshi account and API key are required, including for Paper.
+
 ### Performance Tracking
 
 - [Kalshi Dash](https://github.com/kalshi/kalshi-dash) - Open-source client-side performance tracker with:
