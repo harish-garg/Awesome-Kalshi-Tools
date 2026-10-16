@@ -108,6 +108,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Kalshi Review & Guide](https://maximumtruth.substack.com/p/kalshi-review) - Independent platform review
 - [CFTC Kalshi Approval](https://www.cftc.gov/PressRoom/PressReleases/8439-21) - Official regulatory approval announcement
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq) - General prediction markets guide including Kalshi
+- [Prediction Market Use Cases: Kalshi](https://prediction-market-use-cases.vercel.app/platform/kalshi/) - Free directory of 26 public Kalshi bots, agents and tools with source links and dates, plus a guide to building a Kalshi bot.
 
 ### Research Tools
 
