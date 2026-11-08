@@ -34,6 +34,8 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Kalshi Dash](https://github.com/kalshi/kalshi-dash) - Open-source performance tracker for Kalshi traders with PNL visualization and trading statistics
 - [Dune Analytics - Kalshi Dashboards](https://dune.com/browse/dashboards?q=kalshi) - Community-created dashboards for market analysis
 
+- [TickTilt](https://ticktilt.com) - Free live Up/Down lean signals and countdowns for Kalshi's 15-minute BTC, ETH, SOL and XRP rounds, plus plain-English guides. Information only, not advice.
+
 ### Multi-Platform Analytics
 
 - [Polymarket Analytics](https://polymarket-analytics.com/) - Cross-platform analytics including Kalshi market tracking
