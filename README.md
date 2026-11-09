@@ -33,6 +33,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 - [Kalshi Analytics](https://kalshianalytics.com/) - Prediction market intelligence with market trends and trading opportunities
 - [Kalshi Dash](https://github.com/kalshi/kalshi-dash) - Open-source performance tracker for Kalshi traders with PNL visualization and trading statistics
 - [Dune Analytics - Kalshi Dashboards](https://dune.com/browse/dashboards?q=kalshi) - Community-created dashboards for market analysis
+- [EVDESK](https://evdesk.ai/) - Trading desk for Kalshi with the full order book, the fee on both routes (take or rest a limit order), Kelly sizing, and order placement from your own Kalshi account
 
 ### Multi-Platform Analytics
 
@@ -60,6 +61,12 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 ### Official Tools
 
 - [Kalshi Tools & Analysis](https://github.com/Kalshi/tools-and-analysis) - Official repository with market consensus analysis tools and S&P calculator
+
+### Calculators
+
+- [Kalshi Fee Calculator](https://evdesk.ai/tools/kalshi-fee-calculator) - Free, no sign-up. The taker and maker fee for any price and size, using Kalshi's published formula
+- [Kalshi Odds Converter](https://evdesk.ai/tools/kalshi-odds-converter) - Free, no sign-up. Converts a price in cents to American, decimal and fractional odds and shows the break-even after the fee
+- [Kelly and EV Calculator](https://evdesk.ai/tools/kelly-ev-calculator) - Free, no sign-up. Expected value and Kelly stake for a Kalshi contract with the fee included
 
 ### Performance Tracking
 
