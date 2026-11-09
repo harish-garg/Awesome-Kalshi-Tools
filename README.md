@@ -47,6 +47,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 
 - [kalshi-python](https://pypi.org/project/kalshi-python/) - Official Kalshi Python SDK with complete API integration, auto-generated from OpenAPI specification
 - [Kalshi API Wrapper (unofficial)](https://github.com/users/kalshi/community) - Community-built Python wrappers
+- [kalshi-fees](https://github.com/Div770770/kalshi-fees) - Kalshi taker and maker fee, after-fee break-even and Kelly sizing in exact integer math, no dependencies
 
 ### Go
 
