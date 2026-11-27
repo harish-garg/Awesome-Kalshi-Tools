@@ -90,6 +90,7 @@ Kalshi is a CFTC-regulated exchange where users can trade on event contracts. Th
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Kalshi](https://sim.ai/mcp/kalshi) - MCP integration for AI agents with full trading and data access for AI workflows
+- [Tereno](https://www.tereno.xyz/docs/mcp) - Hosted MCP server (`/api/mcp`, `tereno-mcp`) and x402 REST API (`prediction.evidence`) for pre-trade Kalshi contract rules auditing (`rules_primary`, early-close clauses, designated settlement sources) and Kalshi-vs-Polymarket cross-venue rule divergence checks with shared cross-agent caching on Base (1 free daily MCP check, $0.05 cold / $0.01 cached)
 
 ### No-Code Integrations
 
